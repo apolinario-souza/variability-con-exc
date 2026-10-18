@@ -23,11 +23,16 @@ stimulus, records each trial and gives online feedback.
 
 ## Parts list
 
-[TODO: potentiometer model, Arduino board, acrylic thickness, screws/bearings, bench, cables.]
+potentiometer model:in progress
+Arduino boar:in progress
+acrylic thickness:in progress
+screws/bearings: in progress
+bench: in progress
+cables:in progress
 
 ## Assembly
 
-[TODO: assembly steps, how the arm is aligned with the elbow joint.]
+in progress
 
 ## Software
 
@@ -37,8 +42,6 @@ stimulus, records each trial and gives online feedback.
   2025 Q3 (or compatible) and NI-VISA (serial communication). Alternatively, open `labview/v6.vi`
   in LabVIEW 2025 Q3 or later.
 
-[TODO: describe the program: how the target, load and action are set, stimulus timing,
-feedback given, and the files it saves.]
 
 ### Output files
 
@@ -51,21 +54,17 @@ feedback given, and the files it saves.]
 
 ## Calibration
 
-[TODO: how raw potentiometer units are converted into degrees, and how velocity is computed.]
+in progress
 
-> **TODO:** in the data collected with `v6.vi`, the derivative of the angle column (5 ms per
-> frame) peaks at about twice the angular velocity column. Check whether the angle or the
-> velocity scale is off by a factor of 2 and document the correct conversion here. Also check
-> the actual sampling rate: `delay(5)` plus serial transmission gives slightly less than 200 Hz.
+.
 
 ## Versions and citation
 
-Each study should cite the release used to collect its data. [TODO: create a release (e.g.
-`v1.0`, LabVIEW program `v6.vi`) and archive it on Zenodo to get a DOI.]
+in progress
 
 Studies that used this equipment:
 
-- [TODO: article on load and contraction type (data repository link)]
+in progress
 
 ## License
 
