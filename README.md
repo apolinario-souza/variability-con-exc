@@ -1,7 +1,5 @@
 # Elbow goniometer for timing and accuracy tasks
 
-> **TODO (remove before publishing):** add authors, institution, a photo or diagram of the
-> assembled device, and the items marked TODO.
 
 Open hardware and software of a potentiometer-based elbow goniometer used in motor control
 and learning studies (fast elbow flexion/extension to a spatial target with a target movement
