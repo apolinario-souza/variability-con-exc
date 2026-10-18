@@ -56,8 +56,6 @@ in progress
 
 in progress
 
-.
-
 ## Versions and citation
 
 in progress
